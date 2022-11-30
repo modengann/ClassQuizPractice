@@ -3,7 +3,7 @@
 Include the following class variables:
 
 label (String)
-price (as an integer)
+price (as a double)
 category (String)
 hasExpiration (as a boolean)
 stock (represents how many the store has available)
